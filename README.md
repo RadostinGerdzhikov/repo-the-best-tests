@@ -18,3 +18,10 @@
 ![Gyros](https://thumbs.dreamstime.com/z/greek-gyros-pita-chopped-pork-meat-onion-tzatziki-sauce-greek-gyros-pita-chopped-meat-onion-tzatziki-sauce-125294342.jpg)   
 <span style="color:red">Hello</span>    
 <span style="color:blue">some *blue* text</span> 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
