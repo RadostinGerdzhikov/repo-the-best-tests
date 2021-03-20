@@ -3,7 +3,7 @@
 2. Git hub pull
 3. gti hub commti -m
 4. git statsus
-5. git pcomit orgin
+5. git pcomit orgin  
 <span style="color:red">*- yes*</span>
 - no
 - yse  
