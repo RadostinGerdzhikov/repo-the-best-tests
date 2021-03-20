@@ -22,7 +22,7 @@
 <span style="color:red">Hello</span>    
 <span style="color:blue">some *blue* text</span> 
 ```diff
-- text in red
+text in red
 + text in green
 ! text in orange
 # text in gray
