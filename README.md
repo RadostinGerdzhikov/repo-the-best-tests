@@ -8,7 +8,9 @@
 <span style="color:red">Hello</span>    
 <span style="color:blue">some *blue* text</span>  
 ``` diff
-!- yes in pink
+! - yes
+  - no
+  - yse
 ```
 - no
 - yse  
