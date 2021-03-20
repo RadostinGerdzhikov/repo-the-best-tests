@@ -4,7 +4,8 @@
 3. gti hub commti -m
 4. git statsus
 5. git pcomit orgin  
-<span style="color:red">*-  yes*</span>
+<span color:"red">Hello</span>  
+- yes
 - no
 - yse  
 > ena   
