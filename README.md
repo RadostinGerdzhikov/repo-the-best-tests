@@ -7,8 +7,9 @@
     
 <span style="color:red">Hello</span>    
 <span style="color:blue">some *blue* text</span>  
-
-- yes
+``` diff
+! - yes in pink
+```
 - no
 - yse  
 > ena   
