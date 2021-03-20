@@ -12,4 +12,5 @@
 >> dio 
 > tria  
 [www.dsort.bg](dsport.bg)  
-![Gyros](https://thumbs.dreamstime.com/z/greek-gyros-pita-chopped-pork-meat-onion-tzatziki-sauce-greek-gyros-pita-chopped-meat-onion-tzatziki-sauce-125294342.jpg)
+![Gyros](https://thumbs.dreamstime.com/z/greek-gyros-pita-chopped-pork-meat-onion-tzatziki-sauce-greek-gyros-pita-chopped-meat-onion-tzatziki-sauce-125294342.jpg)  
+<span style="color:blue">some *blue* text</span>
